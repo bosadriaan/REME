@@ -43,10 +43,12 @@ def add_to_faiss(unique_id, sentence):
 
 # Utility function to remove a vector from FAISS index and update mappings
 def remove_from_faiss(unique_id):
-    if unique_id in id_to_vector and int(unique_id) in index.id_map:
+    id_array = faiss.vector_to_array(index.id_map)
+    if unique_id in id_to_vector and int(unique_id) in id_array:
         del id_to_vector[unique_id]
         del id_to_sentence[unique_id]
         index.remove_ids(np.array([int(unique_id)]))
+
 
 # Populate initial data
 def populate_initial_data():
@@ -76,6 +78,7 @@ def populate_initial_data():
         unique_id = str(i + 1)
         add_to_faiss(unique_id, sentence)
 
+# FastAPI routes
 @app.post("/add_sentence/")
 async def add_sentence(sentence_request: SentenceRequest):
     unique_id = sentence_request.unique_id
@@ -103,6 +106,7 @@ async def get_similar_sentences(request_body: SentenceRequest):
 async def get_all_sentences():
     return {"sentences": id_to_sentence}
 
+# Main entry point
 if __name__ == "__main__":
     populate_initial_data()
     import uvicorn
