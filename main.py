@@ -2,6 +2,8 @@ from fastapi import FastAPI, HTTPException
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
+import json
+
 
 # Initialize the FastAPI app
 app = FastAPI()
@@ -36,15 +38,20 @@ def remove_from_faiss(unique_id):
         del id_to_sentence[unique_id]
         index.remove_ids(np.array([int(unique_id)]))
 
+
+
 @app.post("/add_sentence/")
 async def add_sentence(unique_id: str, sentence: str):
     add_to_faiss(unique_id, sentence)
+    save_faiss_to_disk()
     return {"message": "Sentence added to Faiss", "unique_id": unique_id}
 
 @app.post("/remove_sentence/")
 async def remove_sentence(unique_id: str):
     remove_from_faiss(unique_id)
+    save_faiss_to_disk()
     return {"message": "Sentence removed from Faiss", "unique_id": unique_id}
+
 
 @app.get("/get_similar_sentences/")
 async def get_similar_sentences(unique_id: str):
@@ -62,6 +69,22 @@ async def get_sentence(unique_id: str):
 @app.get("/get_all_sentences/")
 async def get_all_sentences():
     return {"sentences": id_to_sentence}
+
+
+def save_faiss_to_disk():
+    faiss.write_index(index, "faiss_index.faiss")
+    with open("id_to_vector.json", "w") as f:
+        json.dump({k: v.tolist() for k, v in id_to_vector.items()}, f)
+    with open("id_to_sentence.json", "w") as f:
+        json.dump(id_to_sentence, f)
+
+def load_faiss_from_disk():
+    global index, id_to_vector, id_to_sentence
+    index = faiss.read_index("faiss_index.faiss")
+    with open("id_to_vector.json", "r") as f:
+        id_to_vector = {k: np.array(v) for k, v in json.load(f).items()}
+    with open("id_to_sentence.json", "r") as f:
+        id_to_sentence = json.load(f)
 
 def populate_initial_data():
     sentences = [
@@ -92,6 +115,11 @@ def populate_initial_data():
 
 # Main entry point
 if __name__ == "__main__":
-    populate_initial_data()
+    try:
+        load_faiss_from_disk()
+    except RuntimeError:
+        populate_initial_data()
+        save_faiss_to_disk()
     import uvicorn
     uvicorn.run(app, host="localhost", port=8000)
+
