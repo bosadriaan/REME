@@ -1,39 +1,101 @@
 sentence,language,country,user_id,time
-"Saw a person with curly hair, green eyes at the bakery on 5th Avenue, around 10am, would love to catch up over coffee.",English,USA,user123,1633654800.0
-"Met a kind soul at the subway station, shared an umbrella during the rain. Hoping to find you again.",English,USA,user456,1633654900.0
-"I spotted you across the room at the jazz club last night, you wore a red dress and had a captivating smile.",English,USA,user789,1633692000.0
-"Our brief conversation at the coffee shop this morning left me wanting more. You had the most intriguing insights on modern art.",English,USA,user123,1633735200.0
-"Saw you jogging in Central Park, Sunday morning. Your energetic aura was contagious.",English,USA,user456,1633756800.0
-"We exchanged glances at the bookstore near the history section, would love to discuss our common interests over coffee.",English,USA,user789,1633760400.0
-"Shared a table with you at the crowded cafe and discussed our mutual love for indie music, would love to catch another concert together.",English,USA,user123,1633803600.0
-"Met you at the rooftop party last Saturday, enjoyed our conversation about travel and adventure.",English,USA,user456,1633836000.0
-"Saw you at the farmer's market. You recommended the organic honey. Would love to get more recommendations.",English,USA,user789,1633868400.0
-"Our dogs seemed to like each other at the dog park. Maybe they're telling us something?",English,USA,user123,1633911600.0
-"Missed my chance to ask you out at the gym. You were the friendly face who offered me a towel.",English,USA,user456,1633944000.0
-"You helped me pick out a wine at the liquor store. Would love to share a glass sometime.",English,USA,user789,1633976400.0
-"Bumped into you at the museum's modern art section, and our little chat about abstract art was the highlight of my day.",English,USA,user123,1634008800.0
-"Saw you at the library on Tuesday afternoon. You were reading a Murakami novel. Would love to discuss it over coffee.",English,USA,user456,1634041200.0
-"Our brief encounter at the bus stop during the rain was like a scene from a movie.",English,USA,user789,1634073600.0
-"You were the charming person who helped me when I dropped my groceries. Would love to properly thank you over dinner.",English,USA,user123,1634106000.0
-"Met you at the beach cleanup event last weekend. Your passion for the environment was inspiring.",English,USA,user456,1634138400.0
-"Spotted you at the local pub during trivia night. Your knowledge of random facts was impressive.",English,USA,user789,1634170800.0
-"We danced next to each other at the live concert in the park. Would love to catch up and see another show.",English,USA,user123,1634203200.0
-"Crossed paths while hiking the trails last Saturday. Your adventurous spirit was refreshing.",English,USA,user456,1634235600.0
-"Shared a laugh in the elevator about the quirky weather. Would enjoy continuing our light-hearted conversation.",English,USA,user789,1634268000.0
-"You were the kind-hearted individual who returned my lost wallet at the mall. I'd love to treat you to lunch as a thank you.",English,USA,user123,1634300400.0
-"Te vi no parque ontem, você estava com um cachorro golden retriever. Adoraria conhecer vocês dois.",Portuguese,Brazil,user456,1634332800.0
-"Nos esbarramos na estação de metrô. Você estava lendo um livro que adoro. Gostaria de conversar mais sobre ele.",Portuguese,Brazil,user789,1634365200.0
-"Nossos olhares se encontraram na livraria, você estava na seção de romances. Será que foi um sinal?",Portuguese,Brazil,user123,1634397600.0
-"Você me ajudou quando eu tropecei na rua, não tive a chance de agradecer. Gostaria de te convidar para um café.",Portuguese,Brazil,user456,1634430000.0
-"Trocamos algumas palavras na fila do cinema. Você tem um gosto incrível para filmes, adoraria assistir um com você.",Portuguese,Brazil,user789,1634462400.0
-"Nos encontramos rapidamente na festa de sábado, e você tinha as melhores histórias de viagem. Adoraria ouvir mais.",Portuguese,Brazil,user123,1634494800.0
-"Vi você na feira de artesanato, você apreciava as peças com tanta atenção. Gostaria de compartilhar essa apreciação artística.",Portuguese,Brazil,user456,1634527200.0
-"Nossas bicicletas estavam lado a lado no sinal. Você comentou sobre o clima, gostaria de estender essa conversa simples.",Portuguese,Brazil,user789,1634559600.0
-"Você me recomendou um bom livro na biblioteca, gostaria de saber suas outras recomendações e compartilhar pensamentos.",Portuguese,Brazil,user123,1634592000.0
-"Nos encontramos no corredor do supermercado, você sugeriu o molho de tomate orgânico. Gostaria de cozinhar juntos?",Portuguese,Brazil,user456,1634624400.0
-"Vi você meditando no parque, sua paz era contagiante. Gostaria de aprender um pouco mais sobre sua prática.",Portuguese,Brazil,user789,1634656800.0
-"Você estava no café, escrevendo algo em seu notebook. Parecia profundo, gostaria de saber mais sobre seus pensamentos.",Portuguese,Brazil,user123,1634689200.0
-"Tivemos uma breve conversa na fila do banco, você tinha uma perspectiva interessante sobre economia. Gostaria de discutir mais.",Portuguese,Brazil,user456,1634721600.0
-"Você estava tirando fotos na praia durante o pôr do sol. Parecia apaixonado por fotografia, gostaria de ver suas obras.",Portuguese,Brazil,user789,1634754000.0
-"i was walking down the street, drinking a pina colada. I heard a dark voice beside me say, would you like something hotter?", English, Brazil, user007, 1634559600.0
-
+"Rooftop bar, Downtown LA, clear night, full moon, I in black leather jacket, she with red scarf, discussed indie music, both attended Radiohead concert last summer.",English,USA,@peppyPam355,1700697039.8581736
+"Farmer's market, sunny morning, I with blue cap, he with canvas tote bag, exchanged cooking tips, agreed to visit new Italian restaurant.",English,USA,@happyHank706,1693726163.4354973
+"Waiting for 9:15 AM train, drizzling, I with yoga mat, she with sketchbook, shared umbrella, sketched city skyline, appreciated early mornings.",English,USA,@wittyWhit817,1703509303.6189528
+"Dog park, warm breezy afternoon, I with beagle, he with dalmatian, dogs chased each other, discussed hiking trails, planned dog-friendly hike.",English,USA,@livelyLiz966,1690997533.4363136
+"Tech meetup, co-working space downtown, I in startup t-shirt, she with tech company laptop sticker, discussed current projects, talked AI trends.",English,USA,@vividVic481,1683670969.0932662
+"Charity run event, cool clear morning, I in white running shirt, he bib number 102, cheered at finish line, shared smoothie, talked training routines.",English,USA,@bennyG977,1675057232.5041115
+"Book signing event, quaint bookstore, I with glasses, she in vintage-style dress, discussed favorite books, shared love for mystery novels.",English,USA,@biggirl866,1684958373.2412088
+"Pub quiz night, I with trivia book, he suggested witty team name, celebrated team win, laughed, discussed favorite trivia categories.",English,USA,@bennyG566,1674377657.9899929
+"Art gallery opening, I in black dress, he in tailored suit, admired abstract painting, discussed interpretations, shared glass of wine.",English,USA,@dreamyDan313,1683955770.9844933
+"Beach cleanup event, sunny hot day, I with straw hat, she with sunscreen on nose, picked up trash, talked marine conservation, planned to attend ocean documentary screening.",English,USA,@zestyZara159,1692711436.4719584
+"Jazz concert, outdoor venue, cool evening, I in gray sweater, he in black beanie, discussed favorite jazz musicians, both enjoyed Miles Davis.",English,USA,@niftyNick661,1695240674.2498143
+"Coffee shop, rainy afternoon, I with laptop, she with photography magazine, shared table, talked about recent travels, both visited Paris last year.",English,USA,@happyHank635,1675040770.96647
+"Library, quiet morning, I in a white shirt, she with blue backpack, discussed recent reads, both fans of Haruki Murakami.",English,USA,@hopefulHank417,1684717685.0976129
+"Rock climbing gym, energetic atmosphere, I with climbing shoes, he with chalk bag, bouldered together, discussed favorite climbing spots, planned outdoor climbing trip.",English,USA,@neatNate951,1699724790.337344
+"Farmers market, early morning, I in running gear, she with reusable bags, discussed organic produce, shared recipes, planned to cook together.",English,USA,@calmCam926,1695064713.6866035
+"Brewery tour, lively crowd, I with a beer sampler, he in a brewery t-shirt, discussed favorite beers, both liked IPA, planned to visit another brewery.",English,USA,@peppyPam906,1687668367.736805
+"Yoga class, serene studio, I with purple mat, he with water bottle, practiced side by side, discussed meditation practices, planned to attend a workshop.",English,USA,@craftyCarl198,1688861986.2463722
+"Vintage car show, sunny afternoon, I in a denim jacket, she with a sun hat, admired classic cars, discussed restoration projects, both interested in 1960s models.",English,USA,@hopefulHank644,1681343606.943447
+"Hiking trail, cool clear day, I with hiking boots, he with a camera, hiked together, discussed nature photography, exchanged favorite trails.",English,USA,@sassySam656,1678556192.6772568
+"Film festival, indie theater, I with a festival pass, she with a program guide, watched a documentary together, discussed film techniques, planned to watch another screening.",English,USA,@wittyWhit812,1684121578.3245583
+"New York, Broadway, Italian restaurant, evening, I in a striped shirt, she in a red dress, shared love for pasta, both enjoyed tiramisu dessert.",English,USA,@bubblyBeth588,1693606556.7066717
+"San Francisco, Market Street, electronics store, afternoon, I with headphones, he in a tech company hoodie, discussed latest gadgets, both interested in smart home devices.",English,USA,@genialGina403,1689071782.9195867
+"Chicago, Lake Shore Drive, beach volleyball game, sunny day, I in white tank top, he with sunglasses, played a match, discussed favorite beach sports.",English,USA,@wittyWhit175,1681945520.0881116
+"Seattle, Pine Street, bookstore, cloudy morning, I with a coffee cup, she with a tote bag, browsed through fiction section, both fans of sci-fi genre.",English,USA,@neatNate899,1691049897.6410055
+"Boston, Boylston Street, fitness center, morning, I in a black tracksuit, he in a blue sweatband, discussed workout routines, both attended spin class.",English,USA,@neatNate567,1682798016.8034165
+"Los Angeles, Sunset Boulevard, movie premiere, evening, I in a casual suit, she in a floral dress, discussed favorite directors, both excited for upcoming films.",English,USA,@sweetSue335,1679002957.33667
+"Miami, Ocean Drive, seafood restaurant, afternoon, I with a white hat, he in a short-sleeve shirt, shared a seafood platter, talked about sustainable fishing.",English,USA,@calmCam339,1691992563.900531
+"Denver, 16th Street Mall, outdoor jazz festival, sunny afternoon, I in a summer dress, he with a saxophone, enjoyed live music, both appreciated saxophone solos.",English,USA,@calmCam586,1678876073.9654226
+"Austin, Lamar Boulevard, farmer's market, early morning, I with a basket, she with a list, discussed local produce, both bought organic honey.",English,USA,@jollyJoe644,1685345307.029157
+"Philadelphia, Walnut Street, photography exhibit, afternoon, I with a camera, he with a sketchbook, admired photojournalism, discussed visual storytelling techniques.",English,USA,@quizzicalQuinn689,1677416344.898706
+"Asheville, Blue Ridge Parkway, early Saturday morning, hiking, I in hiking boots, she with a bird-watching book, discussed local wildlife, planned a bird-watching hike.",English,USA,@chillChad796,1695305535.836074
+"Bozeman, Bridger Canyon Drive, Sunday afternoon, local farm, I with a straw hat, he with a basket of apples, discussed organic farming, exchanged homemade pie recipes.",English,USA,@coolTom868,1689872364.4116504
+"Bend, Cascade Lakes Highway, late Friday afternoon, fishing spot, I with a fishing rod, he with a tackle box, talked about fly fishing techniques, shared fishing stories.",English,USA,@sweetSue838,1703660720.1915786
+"Taos, Ski Valley Road, early Sunday morning, ski resort, I in a red ski jacket, she in a white snowboard outfit, discussed favorite ski slopes, enjoyed hot cocoa together.",English,USA,@vividVic931,1682985665.3711317
+"Laramie, Snowy Range Road, Saturday morning, mountain biking trail, I with a mountain bike, he with a hydration pack, discussed trail conditions, rode together.",English,USA,@fancyFran788,1694091030.2541625
+"Kalispell, Going-to-the-Sun Road, late Saturday afternoon, scenic overlook, I with a camera, she with a sketchbook, captured sunset views, shared favorite scenic spots.",English,USA,@coolTom527,1672822275.96902
+"Flagstaff, Route 66, early Friday morning, local diner, I with a travel guide, he with a map, discussed road trip destinations, shared breakfast.",English,USA,@fancyFran792,1696618584.2325897
+"Eureka, Redwood Highway, Sunday afternoon, redwood forest hike, I in a rain jacket, she with binoculars, discussed redwood conservation, observed forest wildlife.",English,USA,@craftyCarl355,1697398862.9485457
+"Sedona, Red Rock Loop Road, late Sunday morning, rock formation site, I with a hiking pole, he with a geology book, discussed geological formations, explored together.",English,USA,@merryMira458,1695592096.9556122
+"Missoula, Rattlesnake Recreation Area, Saturday afternoon, nature trail, I with a wildflower guidebook, she with a butterfly net, discussed local flora and fauna, planned a nature walk.",English,USA,@keenKurt174,1675062492.2084625
+"Early morning, Amsterdam, Damrak, I with a large backpack, he with a city map, shared a hostel room, explored the city canals, discussed favorite European cities.",English,USA,@happyHank838,1687809793.9392958
+"Late afternoon, Barcelona, La Rambla, she in hiking boots, I with a travel journal, discovered a local tapas bar, talked about our hiking adventures in the Pyrenees.",English,USA,@craftyCarl245,1700317863.857035
+"Florence, Piazza della Signoria, weekend, I with a sketchbook, she with a gelato, discussed Renaissance art, planned a visit to Uffizi Gallery.",English,USA,@calmCam888,1675979556.371145
+"Sunset, Prague, Charles Bridge, I with a camera, he with a travel guitar, captured cityscape photos, played music, shared stories of our backpacking journey.",English,USA,@vividVic974,1682356697.8421857
+"Midday, Paris, Montmartre, he with a beret, I with a pastry, explored art studios, discussed favorite Impressionist artists, sketched the city skyline.",English,USA,@dreamyDan897,1674966943.1994767
+"Early evening, Berlin, Alexanderplatz, I with a history book, she with a currywurst, discussed historical landmarks, planned to tour museums.",English,USA,@bennyG505,1675348396.534221
+"Saturday morning, Lisbon, Belém Tower, she with a pastry box, I with a nautical chart, shared pastéis de Belém, discussed maritime history, explored maritime museum.",English,USA,@chillChad820,1681798506.630386
+"Dublin, Grafton Street, late morning, I with a rain jacket, he with a book of Irish folklore, explored local bookstores, discussed Irish literature.",English,USA,@peppyPam303,1690388687.6826403
+"Budapest, Chain Bridge, nightfall, I with a thermal bath ticket, she with a city guidebook, relaxed in thermal baths, discussed Hungarian history.",English,USA,@jollyJoe117,1701531923.9053338
+"Early afternoon, Rome, Colosseum, he with a gladiator helmet souvenir, I with a guidebook, explored ancient ruins, talked about Roman history, planned a pasta dinner.",English,USA,@hopefulHank313,1686539203.447713
+"Early morning meeting, New York, Wall Street, I in a blue suit, she with a briefcase, discussed quarterly reports, planned follow-up session.",English,USA,@jollyJoe850,1696458473.519277
+"Late afternoon, Chicago, tech expo, McCormick Place, he with a startup booth, I with a badge, discussed innovative products, exchanged business cards.",English,USA,@vividVic758,1700979171.9135864
+"London, Canary Wharf, business lunch, I with a laptop, she with a financial newspaper, discussed market trends, scheduled next briefing.",English,USA,@mikeMighty313,1687951481.6887147
+"Midday, San Francisco, Moscone Center, tech conference, I with a presentation clicker, he with a conference agenda, presented on AI advancements, discussed future collaborations.",English,USA,@livelyLiz116,1672748306.1930165
+"Early evening, Paris, fashion trade show, Porte de Versailles, she with a designer portfolio, I with fabric samples, discussed sustainable fashion, planned showroom visit.",English,USA,@calmCam146,1694641730.0504465
+"Toronto, Financial District, late morning, boardroom meeting, I with a projector, he with a financial model, reviewed annual budget, set financial targets.",English,USA,@jumpyJill462,1679341592.4196358
+"Mid-morning, Boston, Seaport, innovation seminar, I with a notepad, she with a prototype, discussed design thinking, exchanged contact information.",English,USA,@genialGina217,1677016682.0525272
+"Dubai, Trade Centre, international expo, late afternoon, he with a product demo, I with a marketing brochure, discussed global market expansion, planned product launch.",English,USA,@coolTom737,1693460545.1520875
+"Early afternoon, Hong Kong, Central, business networking event, I with a name tag, she with a business card holder, discussed industry challenges, identified partnership opportunities.",English,USA,@happyHank395,1699450326.915757
+"Monday morning, Sydney, CBD, client meeting, I with a proposal, he with feedback, discussed project scope, agreed on deliverables.",English,USA,@wittyWhit227,1683435666.9311204
+"Late morning, Berlin, business workshop, I with workshop materials, she with an attendance list, facilitated team-building activities, discussed project goals.",English,USA,@sassySam413,1676560933.915865
+"Los Angeles, Downtown, legal seminar, afternoon, I with a case study, he with legal codes, discussed recent law amendments, planned follow-up discussion.",English,USA,@vividVic438,1683639183.339798
+"Midday, Tokyo, business district, sushi business lunch, I with a market analysis, she with a product catalog, discussed market entry strategies, planned market research.",English,USA,@niftyNick446,1679431076.2878673
+"Late afternoon, Madrid, business fair, I with a booth setup, he with a visitor badge, discussed service offerings, scheduled a demo.",English,USA,@vividVic886,1695266914.1543078
+"Singapore, Marina Bay, fintech conference, I with a panelist badge, she with a Q&A mic, discussed blockchain applications, exchanged LinkedIn profiles.",English,USA,@gracefulGreg545,1692470617.386458
+"Morning, Zurich, financial seminar, I with a registration list, he with a speaker badge, discussed investment strategies, planned one-on-one consultation.",English,USA,@livelyLiz725,1677981705.698835
+"Late morning, Mumbai, business incubator, I with a startup pitch, he with an investor badge, pitched business idea, received funding interest.",English,USA,@genialGina890,1686850746.9732745
+"Afternoon, Milan, design expo, I with product models, she with a media badge, discussed design innovation, scheduled a feature interview.",English,USA,@jumpyJill296,1699960526.2521033
+"Washington D.C., convention center, cybersecurity forum, I with a vendor booth, he with a cybersecurity book, discussed threat mitigation strategies, planned security audit.",English,USA,@Angelina005155,1679556452.5182765
+"Early evening, Seoul, business mixer, I with a drink ticket, she with a company logo pin, networked, discussed industry news, agreed to attend a panel together.",English,USA,@sassySam604,1681341072.5550156
+"Late night, Miami, Ocean Drive club, I in a red dress, he with a black leather jacket, danced to EDM, shared a cab ride home.",English,USA,@niftyNick522,1685549944.2365367
+"Early evening, NYC, rooftop bar, she in a sparkly top, I with a denim jacket, enjoyed skyline view, talked over cocktails.",English,USA,@hopefulHank671,1673674647.9607935
+"Midnight, Berlin, underground club, I in a black tee, he with neon face paint, danced to techno, exchanged numbers at the bar.",English,USA,@genialGina948,1688507397.017264
+"Late evening, London, Soho jazz bar, I in a tailored suit, she in a velvet dress, enjoyed live jazz, discussed favorite musicians.",English,USA,@calmCam533,1703749339.672286
+"Barcelona, beach club, full moon night, she with a flower crown, I in a white linen shirt, danced barefoot, watched the moon over the sea.",English,USA,@coolTom769,1692091366.4990814
+"Friday night, Las Vegas, high-energy club, I with a sequin dress, he with a bold print shirt, danced to top 40 hits, laughed over vibrant lights.",English,USA,@sassySam140,1696659680.3158624
+"Dublin, Temple Bar, Saturday night, I in a casual sweater, she with a clover pin, enjoyed live folk music, shared a pint of stout.",English,USA,@jazzyJeff383,1677090402.9656773
+"Late night, Paris, riverside club, she in a chic dress, I in a black blazer, danced to electro-pop, shared a late-night snack.",English,USA,@calmCam789,1700803322.6011968
+"Early evening, Amsterdam, live music venue, I in a leather jacket, he with a band tee, enjoyed rock concert, discussed favorite bands.",English,USA,@keenKurt451,1675860231.3195503
+"Saturday night, Rome, elegant rooftop bar, she in a silk dress, I with a glass of prosecco, enjoyed the city lights, talked about travel adventures.",English,USA,@jumpyJill621,1698500449.2848558
+"Prague, dance club, late Friday night, I in a flashy top, he with a glow stick, danced to trance, celebrated a birthday.",English,USA,@jumpyJill888,1690325995.220398
+"Late evening, Sydney, harbor-side bar, I in summer attire, she with a fashionable hat, enjoyed the harbor view, chatted over craft beers.",English,USA,@mikeMighty537,1700729876.5707946
+"Buenos Aires, tango club, Sunday night, she in a red tango dress, I in a sharp suit, danced tango, shared a bottle of Malbec.",English,USA,@jazzyJeff300,1694942128.1003845
+"LA, Sunset Strip, music lounge, I in a vintage tee, she with a studded jacket, enjoyed live acoustic music, discussed upcoming music festivals.",English,USA,@hopefulHank140,1677261803.533456
+"Late night, Tokyo, Shibuya club, I with LED accessories, he with a futuristic outfit, danced to electronic beats, explored the neon-lit district.",English,USA,@genialGina855,1692191929.9610121
+"Athens, rooftop bar, early evening, she in a Grecian dress, I with a chilled ouzo, watched the sunset, talked about ancient mythology.",English,USA,@jazzyJeff946,1702191666.3057752
+"Montreal, night club, Friday night, I with a flashy wristband, he with a vibrant tie, enjoyed the DJ set, laughed over energetic dance moves.",English,USA,@peppyPam979,1700382401.4473708
+"Late evening, Copenhagen, jazz club, I in a cozy sweater, she with a classy choker, enjoyed jazz ensemble, discussed Danish design.",English,USA,@fancyFran916,1673117816.0590062
+"Mumbai, high-end bar, Saturday night, she in a fashionable saree, I in a traditional kurta, enjoyed Bollywood beats, talked over exotic cocktails.",English,USA,@bennyG774,1686306480.25417
+"Nashville, honky-tonk bar, late night, I in cowboy boots, he with a western hat, danced to country music, shared stories of southern hospitality.",English,USA,@chillChad821,1694766769.321123
+"Early morning, London, King's Cross Station, I with a raincoat, she with a vintage suitcase, waiting for the 9:15 AM train, discussed the historic station architecture, shared coffee from a nearby cafe.",English,USA,@Angelina005526,1702630079.3874154
+"Late afternoon, Tokyo, Shinjuku Station, he in a business suit, I with a backpack, rushed for the Yamanote Line, commented on the station's bustling energy, shared a quick laugh at a street performer nearby.",English,USA,@happyHank668,1676203952.3039746
+"Midday, Paris, Montparnasse Bus Stop, I in a red beret, she with a book of poetry, awaited bus 89, chatted about the nearby crepe stand, admired the view of the Tour Montparnasse.",English,USA,@jollyJoe475,1672672481.4790516
+"Evening rush hour, New York, Times Square Subway Station, I with headphones, he in a grey trench coat, navigated the crowd for the uptown 1 train, mentioned the colorful station murals, shared a bench while waiting.",English,USA,@sweetSue325,1699485954.4308708
+"Early morning, Munich, Marienplatz U-Bahn, she in a blue scarf, I with a daypack, waiting for the U3 line, discussed the iconic Glockenspiel nearby, commented on the chilly weather.",English,USA,@quizzicalQuinn106,1675947656.8982024
+"Late morning, Sydney, Circular Quay Station, I in sunglasses, he with a surfboard, awaited the City Circle train, admired the harbor view, chatted about the upcoming surf competition.",English,USA,@niftyNick698,1672680190.608075
+"Afternoon, Chicago, The Loop, I with a shopping bag, she in a black peacoat, waiting for the Pink Line, discussed the nearby sculpture in Daley Plaza, shared a map of the L train.",English,USA,@bubblyBeth240,1673516145.590826
+"Early evening, Rome, Termini Station, he with a camera, I with a travel guide, waiting for the regional train, discussed the ancient ruins visible from the station, planned a visit to the nearby National Museum.",English,USA,@niftyNick487,1683394013.7795353
+"Mid-morning, San Francisco, Powell Street Cable Car, I with a windbreaker, she with a sketchbook, rode uphill, chatted about the historic cable cars, admired the view of the Bay.",English,USA,@Angelina005643,1677562874.6183512
+"Dusk, Madrid, Atocha Train Station, she in a floral dress, I with a guitar case, waiting for the high-speed train, admired the indoor tropical garden, played a tune while waiting.",English,USA,@bennyG924,1676654123.2418501
